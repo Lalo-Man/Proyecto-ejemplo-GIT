@@ -1,3 +1,3 @@
 class Persona{
-
+	String nombre;
 }
