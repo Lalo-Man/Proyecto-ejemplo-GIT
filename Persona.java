@@ -4,4 +4,6 @@ class Persona{
 	int edad;
 	
 	public void Prueba(){}
+	
+	public void quitalo(){}
 }
